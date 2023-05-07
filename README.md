@@ -3,7 +3,7 @@ Module Challenge 16 - R, RStudio, and Statistics
 
 ## Linear Regression to Predict MPG
 
-LinearRegressionModel.png
+![LinearRegressionModel](https://user-images.githubusercontent.com/119453505/236655692-d6e4fc0b-97bf-49e4-8ca8-d5c5a8d33dbf.png)
 
 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 -The various vehicle lengths and ground clearance both represent significant, non-random variance to the MPG values. Both contibute to the efficiency of the cars listed in this data.
@@ -16,16 +16,16 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
 
 ## Summary Statistics on Suspension Coils
 
-Total_Summary.png
+![Total_Summary](https://user-images.githubusercontent.com/119453505/236655702-3826d63f-ad1d-42bb-b439-a7347d270b07.png)
 
-Lot_Summary.png
+![Lot_Summary](https://user-images.githubusercontent.com/119453505/236655711-8f7031e5-a8c3-4421-ab27-d9f40249f6d5.png)
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 -Averaging the variance of cars across all lots we see a value of 62.29356. This is below the pounds per square inch limitation of 100psi. When looking specifically at each lot, we find lots 1 and 2 are under these parameters, however lot three goes well beyond.
 
 ## T-Tests on Suspension Coils
 
-t.tests.png
+![t tests](https://user-images.githubusercontent.com/119453505/236655717-d6ea5b2a-41d7-4ded-a2dc-4a438d933d94.png)
 
 Briefly summarize your interpretation and findings for the t-test results.
 
